@@ -2,7 +2,8 @@
 University of Western Ontario CS 2212 Group Project
 Group Members: Tsid Tomori, Talha, Arleen Hayer, Kabir Pathan, Waleed Aamer
 Description of the game
-WordQuack is an educational game intended for students of grade 1-6 in which they further enhance their vocabulary and spelling. Wordquack is inspired by a famous game called WordScapes and our goal for this game is to help encourage a generation of students that rely on too much spell checkers to build on their vocabulary through a fun learning environment. This game was created as a group project for the course CS2212: Introduction to Software Engineering.
+WordQuack is an educational game intended for students of grade 1-6 in which they further enhance their vocabulary and spelling. Wordquack is inspired by a famous game called WordScapes and our goal for this game is to help encourage a generation of students that rely on too much spell
+checkers to build on their vocabulary through a fun learning environment. This game was created as a group project for the course CS2212: Introduction to Software Engineering.
 
 Compling from source code
 To compile from source code, follow these steps:
